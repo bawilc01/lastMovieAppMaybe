@@ -1,0 +1,11 @@
+C:\Users\Brittney\source\repos\hopefulFinalMovieApp\ConsoleApp1\bin\Debug\netcoreapp2.1\MovieApp.deps.json
+C:\Users\Brittney\source\repos\hopefulFinalMovieApp\ConsoleApp1\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.json
+C:\Users\Brittney\source\repos\hopefulFinalMovieApp\ConsoleApp1\bin\Debug\netcoreapp2.1\MovieApp.runtimeconfig.dev.json
+C:\Users\Brittney\source\repos\hopefulFinalMovieApp\ConsoleApp1\bin\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\Brittney\source\repos\hopefulFinalMovieApp\ConsoleApp1\obj\Debug\netcoreapp2.1\MovieApp.csprojAssemblyReference.cache
+C:\Users\Brittney\source\repos\hopefulFinalMovieApp\ConsoleApp1\obj\Debug\netcoreapp2.1\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Brittney\source\repos\hopefulFinalMovieApp\ConsoleApp1\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfoInputs.cache
+C:\Users\Brittney\source\repos\hopefulFinalMovieApp\ConsoleApp1\obj\Debug\netcoreapp2.1\MovieApp.AssemblyInfo.cs
+C:\Users\Brittney\source\repos\hopefulFinalMovieApp\ConsoleApp1\bin\Debug\netcoreapp2.1\MovieApp.pdb
+C:\Users\Brittney\source\repos\hopefulFinalMovieApp\ConsoleApp1\obj\Debug\netcoreapp2.1\MovieApp.dll
+C:\Users\Brittney\source\repos\hopefulFinalMovieApp\ConsoleApp1\obj\Debug\netcoreapp2.1\MovieApp.pdb
